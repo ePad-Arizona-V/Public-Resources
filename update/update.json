@@ -1,0 +1,11 @@
+﻿{
+	"latest": 1,
+	"version": "v1.0.0 Beta",
+	"updateurl":"",
+	"critical": false,
+	"changes": [
+"Test1",
+"Test2",
+"Test3"
+]
+}
