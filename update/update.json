@@ -2,7 +2,7 @@
 	"latest": 2,
 	"version": "v1.0.0 Beta",
 	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
-	"critical": false,
+	"critical": 1,
 	"changes": [
 "Test1",
 "Test2",
