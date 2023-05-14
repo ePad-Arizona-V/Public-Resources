@@ -1,4 +1,4 @@
-[newsmain]
+﻿[newsmain]
 mainnews1=Релиз ePad
 datemainnews1=17 May
 linkm1=
