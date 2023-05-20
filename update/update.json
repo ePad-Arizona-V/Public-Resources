@@ -1,11 +1,9 @@
 {
-	"latest": 2,
+	"latest": 3,
 	"version": "v1.0.0 Beta",
 	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
 	"critical": 1,
 	"changes": [
-"Test1",
-"Test2",
-"Test3"
+"См. в канале тестеров"
 ]
 }
