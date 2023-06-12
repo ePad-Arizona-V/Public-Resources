@@ -4,6 +4,6 @@
 	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
 	"critical": 1,
 	"changes": [
-"См. в канале тестеров"
+"- Вырезана функция тега сотрудников"
 ]
 }
