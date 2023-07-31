@@ -1,6 +1,6 @@
 {
-	"latest": ERROR,
-	"version": "v1.0.2 Release",
+	"latest": 20,
+	"version": "v1.0.4.0 Release",
 	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
 	"critical": 1,
 	"changes": [
