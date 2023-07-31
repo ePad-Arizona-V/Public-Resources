@@ -4,7 +4,6 @@
 	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
 	"critical": 1,
 	"changes": [
-"- Добавлен альтернативный хост для загрузки обновлений (СНГ и др.)",
-"- Добавлена ошибка, в случае если обновление ePad не будет загружено"
+"- Смотрите иноформацию о версии v1.0.4.0 Release на нашем Discord сервере!"
 ]
 }
