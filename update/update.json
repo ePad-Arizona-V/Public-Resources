@@ -1,9 +1,9 @@
 {
-	"latest": 32,
-	"version": "v1.0.4.4 Release",
+	"latest": 33,
+	"version": "v1.0.4.5 Release",
 	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
 	"critical": 1,
 	"changes": [
-"- Смотрите иноформацию о версии v1.0.4.4 Stable на нашем Discord сервере!"
+"- Смотрите иноформацию о версии v1.0.4.5 Release на нашем Discord сервере!"
 ]
 }
