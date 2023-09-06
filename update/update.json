@@ -1,7 +1,7 @@
 {
 	"latest": 36,
 	"version": "v1.0.4.6 Release",
-	"updateurl":"https://github.com/ePad-Arizona-V/Public-Resources/raw/main/update/update.exe",
+	"updateurl":"http://185.251.88.47/update.exe",
 	"critical": 1,
 	"changes": [
 "- Добавлены точки-разделители в общем заработке в организации",
