@@ -1,7 +1,7 @@
 {
-	"latest": 36,
-	"version": "v1.0.4.6 Release",
-	"updateurl":"http://185.251.88.47/update.exe",
+	"latest": 37,
+	"version": "v1.0.4.7 Release",
+	"updateurl":"http://upd.escripts.ru/update.exe",
 	"critical": 1,
 	"changes": [
 "- Добавлены точки-разделители в общем заработке в организации",
