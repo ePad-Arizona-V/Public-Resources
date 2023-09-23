@@ -1,9 +1,0 @@
-{
-	"latest": 32,
-	"version": "v1.0.4.9 Release",
-	"updateurl":"http://51.15.67.108:20000/interface/ePad/update/update.exe",
-	"critical": 1,
-	"changes": [
-"- Фикс отыгровок"
-]
-}
